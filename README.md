@@ -1,4 +1,3 @@
-# Trybe-Projeto-27-
 <h1 align="center">Projeto 27 - Car Shop</h1>
 
 <div>
